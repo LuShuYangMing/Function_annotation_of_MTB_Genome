@@ -1,0 +1,3 @@
+# generated using info from https://www.ncbi.nlm.nih.gov/nuccore/NC_000962.3
+chr - MTB 1 0 4412000 black
+# everything mapped to a single unitig
